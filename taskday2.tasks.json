@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dc6"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 1,
+  "task": "Html task",
+  "due_date": {
+    "$date": "2020-09-29T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dc7"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 2,
+  "task": "Css task",
+  "due_date": {
+    "$date": "2020-10-01T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dc8"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 3,
+  "task": "Javascript task",
+  "due_date": {
+    "$date": "2020-10-05T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dc9"
+  },
+  "task_id": 4,
+  "topic_id": 4,
+  "user_id": 4,
+  "task": "React task",
+  "due_date": {
+    "$date": "2020-10-20T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dca"
+  },
+  "task_id": 5,
+  "topic_id": 5,
+  "user_id": 5,
+  "task": "Node task",
+  "due_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dcb"
+  },
+  "task_id": 1,
+  "topic_id": 1,
+  "user_id": 6,
+  "task": "Html task",
+  "due_date": {
+    "$date": "2020-09-29T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dcc"
+  },
+  "task_id": 2,
+  "topic_id": 2,
+  "user_id": 7,
+  "task": "Css task",
+  "due_date": {
+    "$date": "2020-10-01T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dcd"
+  },
+  "task_id": 3,
+  "topic_id": 3,
+  "user_id": 8,
+  "task": "Javascript task",
+  "due_date": {
+    "$date": "2020-10-05T18:30:00.000Z"
+  },
+  "submitted": true
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dce"
+  },
+  "task_id": 4,
+  "topic_id": 4,
+  "user_id": 9,
+  "task": "React task",
+  "due_date": {
+    "$date": "2020-10-20T18:30:00.000Z"
+  },
+  "submitted": false
+},
+{
+  "_id": {
+    "$oid": "64a3fca017163b75a5226dcf"
+  },
+  "task_id": 5,
+  "topic_id": 5,
+  "user_id": 10,
+  "task": "Node task",
+  "due_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "submitted": true
+}]

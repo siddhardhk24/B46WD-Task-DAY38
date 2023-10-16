@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64a4050917163b75a5226ddf"
+  },
+  "user_id": 1,
+  "drive_date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "company_name": "Google"
+},
+{
+  "_id": {
+    "$oid": "64a4050917163b75a5226de0"
+  },
+  "user_id": 1,
+  "drive_date": {
+    "$date": "2020-10-10T00:00:00.000Z"
+  },
+  "company_name": "Amazon"
+},
+{
+  "_id": {
+    "$oid": "64a4050917163b75a5226de1"
+  },
+  "user_id": 2,
+  "drive_date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "company_name": "Microsoft"
+},
+{
+  "_id": {
+    "$oid": "64a4050917163b75a5226de2"
+  },
+  "user_id": 3,
+  "drive_date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "company_name": "Zoho"
+},
+{
+  "_id": {
+    "$oid": "64a4050917163b75a5226de3"
+  },
+  "user_id": 5,
+  "drive_date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "company_name": "Facebook"
+}]

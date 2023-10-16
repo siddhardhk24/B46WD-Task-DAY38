@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64a40c1917163b75a5226de4"
+  },
+  "user_id": 1,
+  "name": "Nithish Kumar N",
+  "email": "nithishkumar.17@hotmail.com",
+  "mentor_id": 1
+},
+{
+  "_id": {
+    "$oid": "64a40c1917163b75a5226de5"
+  },
+  "user_id": 2,
+  "name": "Ajay B",
+  "email": "ajay@gmail.com",
+  "mentor_id": 2
+},
+{
+  "_id": {
+    "$oid": "64a40c1917163b75a5226de6"
+  },
+  "user_id": 3,
+  "name": "janakiraman S",
+  "email": "john@gmail.com",
+  "mentor_id": 3
+},
+{
+  "_id": {
+    "$oid": "64a40c1917163b75a5226de7"
+  },
+  "user_id": 4,
+  "name": "Karan Kumar S",
+  "email": "skaran@gmail.com",
+  "mentor_id": 4
+},
+{
+  "_id": {
+    "$oid": "64a40c1917163b75a5226de8"
+  },
+  "user_id": 5,
+  "name": "Logesh Kumar N",
+  "email": "logesh@gmail.com",
+  "mentor_id": 5
+}]

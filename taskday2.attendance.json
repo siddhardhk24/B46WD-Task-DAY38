@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64a412c017163b75a5226df3"
+  },
+  "user_id": 1,
+  "topic_id": 1,
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "64a412c017163b75a5226df4"
+  },
+  "user_id": 2,
+  "topic_id": 2,
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "64a412c017163b75a5226df5"
+  },
+  "user_id": 3,
+  "topic_id": 3,
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "64a412c017163b75a5226df6"
+  },
+  "user_id": 4,
+  "topic_id": 4,
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "64a412c017163b75a5226df7"
+  },
+  "user_id": 5,
+  "topic_id": 5,
+  "present": true
+}]
